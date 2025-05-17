@@ -55,16 +55,6 @@ This system identifies predefined keywords in surveillance or conversational aud
 
 ---
 
-## Future Improvements
-
-- Adaptive thresholding per keyword/accent
-- Phoneme-level enhancements
-- Deep learning (CNN/RNN) integration
-- Real-time processing and GUI support
-- Multi-keyword detection
-
----
-
 ## Contributors
 
 - **S K Karisma** – 23011101119  
