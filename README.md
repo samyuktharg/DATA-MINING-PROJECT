@@ -23,10 +23,6 @@ This system identifies predefined keywords in surveillance or conversational aud
 4. **Phoneme Transformation**: Set 1st MFCC to its mean
 5. **Pattern Matching**: DTW with normalized Euclidean distance
 6. **Sliding Window Detection**:
-   - `window_size_factor = 2`
-   - `step_size = 5`
-   - DTW threshold = `2.1`
-   - Minimum detection gap = `0.5 sec`
 7. **Visualization**: Waveform, spectrogram, DTW distance
 
 ---
@@ -49,7 +45,7 @@ This system identifies predefined keywords in surveillance or conversational aud
 
 ---
 
-## 📈 Results
+## Results
 
 | Test Audio                                  | Detection |
 |--------------------------------------------|-----------|
